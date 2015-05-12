@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/区县获取建委数据" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/commons-collections-3.1.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/commons-discovery-0.2.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/commons-lang-2.1.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/ezmorph-1.0.6.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/jaxrpc.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/log4j-1.2.9.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/mail.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-aop-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-aspects-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-beans-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-context-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-context-support-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-core-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-expression-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-instrument-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-instrument-tomcat-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-jdbc-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-jms-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-orm-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-test-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/lib/spring-tx-3.2.3.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/src/com/cdmcs/cdjw/tyjk/CdjwInfClientService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/src/com/cdmcs/qx2cdjw/inf/DynamicBind.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/src/com/cdmcs/qx2cdjw/service/SynCdjwQyzt.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/src/com/cdmcs/qx2cdjw/service/SynData2Table.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/test/applicationContext_test.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/test/com/cdmcs/qx2cdjw/test/SynCdjwQyztTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/test/datasource.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/区县获取建委数据/test/log4j.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/统一调用建委接口/lib/commons-discovery-0.2.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/统一调用建委接口/lib/jaxrpc.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/统一调用建委接口/lib/log4j-1.2.9.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/统一调用建委接口/lib/mail.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/统一调用建委接口/src/com/cdmcs/cdjw/tyjk/CdjwInfClientService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/统一调用建委接口/test/log4j.properties" charset="UTF-8" />
+  </component>
+</project>
+

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="cdmcs_cdjwtyjk_client">
+    <output-path>$PROJECT_DIR$/out/artifacts/cdmcs_cdjwtyjk_client</output-path>
+    <root id="archive" name="cdmcs_cdjwtyjk_client.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/统一调用建委接口/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="统一调用建委接口" />
+    </root>
+  </artifact>
+</component>

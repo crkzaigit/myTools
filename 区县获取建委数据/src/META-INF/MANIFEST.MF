@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: ojdbc14.jar axis.jar mail.jar jaxrpc.jar wsdl4j.jar axis-a
+ nt.jar log4j-1.2.9.jar commons-logging.jar commons-beanutils.jar json
+ -lib-2.4-jdk15.jar commons-discovery-0.2.jar spring-tx-3.2.3.RELEASE.
+ jar spring-aop-3.2.3.RELEASE.jar spring-jms-3.2.3.RELEASE.jar spring-
+ orm-3.2.3.RELEASE.jar spring-core-3.2.3.RELEASE.jar spring-jdbc-3.2.3
+ .RELEASE.jar spring-test-3.2.3.RELEASE.jar spring-beans-3.2.3.RELEASE
+ .jar spring-aspects-3.2.3.RELEASE.jar spring-context-3.2.3.RELEASE.ja
+ r spring-expression-3.2.3.RELEASE.jar spring-instrument-3.2.3.RELEASE
+ .jar spring-context-support-3.2.3.RELEASE.jar spring-instrument-tomca
+ t-3.2.3.RELEASE.jar
+

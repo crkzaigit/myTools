@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/区县获取建委数据/区县获取建委数据.iml" filepath="$PROJECT_DIR$/区县获取建委数据/区县获取建委数据.iml" />
+      <module fileurl="file://$PROJECT_DIR$/统一调用建委接口/统一调用建委接口.iml" filepath="$PROJECT_DIR$/统一调用建委接口/统一调用建委接口.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="cdmcs_cdjw_inf_client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cdmcs_cdjw_inf_client_jar</output-path>
+    <root id="archive" name="cdmcs_cdjw_inf_client.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/区县获取建委数据/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="区县获取建委数据" />
+    </root>
+  </artifact>
+</component>

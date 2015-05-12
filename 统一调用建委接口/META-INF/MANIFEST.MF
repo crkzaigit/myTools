@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+language-level: 5.0
+dependcncies-lib: axis.jar;axis-ant.jar;commons-beanutils.jar;commons-discovery-0.2.jar;commons-logging.jar;jaxrpc.jar;json-lib-2.4-jdk15.jar;log4j-1.2.9.jar;mail.jar;wsdl4j.jar
